@@ -1,3 +1,5 @@
+![logo](https://github.com/JoaquinDucos/JoaquinDucos/blob/main/BannerGithub.webp)
+
 <h1 align="center">Hi 👋, I'm Joaquin Ducos</h1>
 <h3 align="center">An Argentinian who enjoys the art of coding.</h3>
 <br>
