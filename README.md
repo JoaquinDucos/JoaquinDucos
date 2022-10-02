@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Joaquin Ducos</h1>
 <h3 align="center">An Argentinian who enjoys the art of coding.</h3>
 <br>
-<img align ="right" alt= "coding" width="350" src= "https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align ="right" align="top" alt= "coding" width="350" src= "https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joaquinducos&label=Profile%20views&color=0e75b6&style=flat" alt="joaquinducos" /> </p>
 
 - 👨‍💻 I’m currently working **for fun on a front-end Web3 app connected via Smart Contracts & Solidity to the blockchain.**
