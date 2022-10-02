@@ -8,7 +8,7 @@
 
 - 📫 How to reach me ==> joaquinducos@gmail.com
  
-- 👨‍💻 Working on a future project related to Apps & Solidity programming.
+- 👨‍💻 Working on front-end Web3 apps connected via Smart Contracts & Solidity to the blockchain.
 
 <a href="https://github.com/JoaquinDucos?tab=repositories">
   <img src="https://github-readme-stats.vercel.app/api?username=JoaquinDucos&show_icons=true&theme=tokyonight&count_private=true" />
