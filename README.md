@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in Electronics, Web & App Development, DB's, Machine Learning/Robotization/Automatization and Robotics.
 
-- 🌱 Currently learning C, Python, HTML & Css,Django framework, solidity and Arduino programming.
+- 🌱 Currently learning C, Python, HTML & Css,Django framework, Solidity and Arduino programming.
 
 - 🔀 I’m looking to collaborate on coding debugs and University projects.
 
