@@ -12,4 +12,4 @@
 
 ![Joaquin Ducos's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaquinDucos&show_icons=true&theme=radical)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api&theme=radical/top-langs/?username=JoaquinDucos)](https://github.com/JoaquinDucos/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api?&theme=radical/top-langs/?username=JoaquinDucos)](https://github.com/JoaquinDucos/github-readme-stats)
