@@ -13,3 +13,12 @@
 ![Joaquin Ducos's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaquinDucos&show_icons=true&theme=radical)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api?&theme=radical/top-langs/?username=JoaquinDucos)](https://github.com/JoaquinDucos/github-readme-stats)
+<a href="https://github.com/JoaquinDucos?tab=repositories">
+  <img src="https://github-readme-stats.vercel.app/api?username=JoaquinDucos&show_icons=true&theme=tokyonight&count_private=true" />
+</a>
+&nbsp;
+&nbsp;
+&nbsp;
+<a href="https://github.com/JoaquinDucos/react-effortless-form">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaquinDucos&card_width=445&theme=tokyonight&hide=html,scss&layout=compact" />
+</a>
