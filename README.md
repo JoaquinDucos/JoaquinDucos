@@ -10,4 +10,4 @@
  
 - 👨‍💻 Working on a future project related to Apps & Solidity programming.
 
-  <img src="https://github-readme-stats.vercel.app/api?username=JoaquinDucos&show_icons=true&theme=tokyonight&count_private=true" />
+![Joaquin Ducos's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaquinDucos&show_icons=true&theme=radical)
