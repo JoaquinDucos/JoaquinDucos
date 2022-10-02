@@ -10,9 +10,6 @@
  
 - 👨‍💻 Working on a future project related to Apps & Solidity programming.
 
-![Joaquin Ducos's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaquinDucos&show_icons=true&theme=radical)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api?&theme=radical/top-langs/?username=JoaquinDucos)](https://github.com/JoaquinDucos/github-readme-stats)
 <a href="https://github.com/JoaquinDucos?tab=repositories">
   <img src="https://github-readme-stats.vercel.app/api?username=JoaquinDucos&show_icons=true&theme=tokyonight&count_private=true" />
 </a>
