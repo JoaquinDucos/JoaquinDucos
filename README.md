@@ -4,7 +4,7 @@
 
 - 🌱 Currently learning C, Python, HTML & Css,Django framework, Solidity and Arduino programming.
 
-- 🔀 I’m looking to collaborate on coding debugs and University projects.
+- 🔀 I’m looking to collaborate on coding debugs, University contributions and a real world project where i can constantly learn and apply my knowledge.
 
 - 📫 How to reach me ==> joaquinducos@gmail.com
  
