@@ -26,8 +26,6 @@
 </a>
 
 &nbsp;
-&nbsp;
-&nbsp;
 
 <a href="https://github.com/JoaquinDucos/react-effortless-form">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaquinDucos&card_width=445&theme=tokyonight&hide=html,scss&layout=compact" />
