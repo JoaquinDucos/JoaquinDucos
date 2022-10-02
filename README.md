@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **==> joaquinducos@gmail.com**
 
-- ⚡ Fun fact **I want to learn as much languages ass possible.**
+- ⚡ Fun fact **I want to learn as many languages as possible.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
