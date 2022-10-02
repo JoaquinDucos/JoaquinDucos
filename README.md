@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Joaquin Ducos</h1>
 <h3 align="center">An Argentinian who enjoys the art of coding.</h3>
 
-<img align ="right" hspace="20" alt= "coding" width="400" src= "https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align ="right" hspace="-20" alt= "coding" width="400" src= "https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joaquinducos&label=Profile%20views&color=0e75b6&style=flat" alt="joaquinducos" /> </p>
 
