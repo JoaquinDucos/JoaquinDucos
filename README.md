@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Joaquin Ducos</h1>
 <h3 align="center">An Argentinian who enjoys the art of coding.</h3>
 
-<img align ="right" hspace="-20" alt= "coding" width="400" src= "https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align ="right" alt= "coding" width="400" src= "https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" img align ="left" hspace="20">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joaquinducos&label=Profile%20views&color=0e75b6&style=flat" alt="joaquinducos" /> </p>
 
-- 👨‍💻 I’m currently working **for fun on a front-end Web3 app connected via Smart Contracts & Solidity to the blockchain.**     
+- 👨‍💻 I’m currently working **for fun on a front-end Web3 app connected via Smart Contracts & Solidity to the blockchain.**
 
-- 🌱 I’m currently learning **C, Python, HTML & Css,Django framework, Solidity and Arduino programming.**     
+- 🌱 I’m currently learning **C, Python, HTML & Css,Django framework, Solidity and Arduino programming.**
 
-- 👯 I’m looking to collaborate on **coding debugs, University contributions and a real world project where i can constantly learn and apply my knowledge.**     
+- 👯 I’m looking to collaborate on **coding debugs, University contributions and a real world project where i can constantly learn and apply my knowledge.**
 
-- 📫 How to reach me **==> joaquinducos@gmail.com**     
+- 📫 How to reach me **==> joaquinducos@gmail.com**
 
-- ⚡ Fun fact **I want to learn as much languages ass possible.**    
+- ⚡ Fun fact **I want to learn as much languages ass possible.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
