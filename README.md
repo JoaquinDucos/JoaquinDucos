@@ -30,6 +30,6 @@
 
 
 <a href="https://github.com/JoaquinDucos/react-effortless-form">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaquinDucos&card_width=445&theme=tokyonight&hide=html&langs_count=6,scss&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaquinDucos&card_width=445&theme=tokyonight&hide=html&langs_count=8,scss&layout=compact" />
 </a>
 
