@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JoaquinDucos, currently Business and Technology management student who likes to spend time coding.
+- 👋 Hi, I’m @JoaquinDucos, currently Business and Technology management student who enjoys the art of coding.
 
 - 👀 I’m interested in Electronics, Web & App Development, DB's, Machine Learning/Robotization/Automatization and Robotics.
 
