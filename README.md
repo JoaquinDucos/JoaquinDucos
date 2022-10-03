@@ -6,7 +6,7 @@
 <img align ="right" alt= "coding" width="350" src= "https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joaquinducos&label=Profile%20views&color=0e75b6&style=flat" alt="joaquinducos" /> </p>
 
-- 👨‍💻 I’m currently working **for fun on a front-end Web3 app connected via Smart Contracts & Solidity to the blockchain.**
+- 👨‍💻 I’m currently working **for fun on personal projects and apps.**
 
 - 🌱 I’m currently learning **C, Python, HTML & Css,Django framework, Solidity and Arduino programming.**
 
