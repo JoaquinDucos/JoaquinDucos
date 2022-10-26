@@ -8,7 +8,7 @@
 
 - 👨‍💻 I’m currently working **for fun on personal projects and apps.**
 
-- 🌱 I’m currently learning **C, Python, HTML & Css,Django framework, Solidity and Arduino programming.**
+- 🌱 I’m currently learning **C, Python, HTML & Css,BackEnd with JavaScript, Solidity and Arduino programming.**
 
 - 👯 I’m looking to collaborate on **coding debugs, University contributions and a real world project where i can constantly learn and apply my knowledge.**
 
