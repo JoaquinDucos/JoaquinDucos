@@ -10,7 +10,7 @@
 
 - 🌱 Constantly learning programming languages & Technologies such as: **C, Python, HTML & Css, Javascript, SQL, Solidity and Arduino programming.**
 
-- 🔭 I’m looking to collaborate on **working on debugs, University contributions and a real world project to learn and apply my knowledge.**
+- 🔭 I’m looking to collaborate on **public projects, University contributions and a real world project to learn and apply my knowledge.**
 
 - 📫 How to reach me **==> joaquinducos@gmail.com**
 
