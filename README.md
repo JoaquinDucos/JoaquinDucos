@@ -6,15 +6,15 @@
 <img align ="right" alt= "coding" width="350" src= "https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joaquinducos&label=Profile%20views&color=0e75b6&style=flat" alt="joaquinducos" /> </p>
 
-- 👨‍💻 I’m currently working **for fun on personal projects and apps.**
+- 👨‍💻 Currently working **for fun on personal projects and apps.**
 
-- 🌱 I’m currently learning **C, Python, HTML & Css,BackEnd with JavaScript, Solidity and Arduino programming.**
+- 🌱 Constantly learning programming languages & Technologies such as: **C, Python, HTML & Css, Javascript, Solidity and Arduino programming.**
 
-- 👯 I’m looking to collaborate on **coding debugs, University contributions and a real world project where i can constantly learn and apply my knowledge.**
+- 👯 I’m looking to collaborate on **working on debugs, University contributions and a real world project to learn and apply my knowledge.**
 
 - 📫 How to reach me **==> joaquinducos@gmail.com**
 
-- ⚡ Fun fact **I want to learn as many languages as possible.**
+- ⚡ Current preferences: **Backend, Software programming and Business technologies.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
