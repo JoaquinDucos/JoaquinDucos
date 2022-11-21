@@ -8,7 +8,7 @@
 
 - 👨‍💻 Currently working **for fun on personal projects and apps.**
 
-- 🌱 Constantly learning programming languages & Technologies such as: **C, Python, HTML & Css, Javascript, SQL, Solidity and Arduino programming.**
+- 🌱 Constantly learning programming languages & Technologies such as: **C, Python, HTML & Css, Javascript, SQL, Solidity, Arduino and Restful API's with Node js, express and Insomnia .**
 
 - 🔭 I’m looking to collaborate on **public projects, University contributions and a real world project to learn and apply my knowledge.**
 
