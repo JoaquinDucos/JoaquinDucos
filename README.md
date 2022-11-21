@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **==> joaquinducos@gmail.com**
 
-- ⚡ Current preferences: **Backend, Software programming and Business technologies.**
+- ⚡ Current preferences: **Backend, Software programming, Data analytics and Business technologies.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
