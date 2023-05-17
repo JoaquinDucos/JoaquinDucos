@@ -1,20 +1,20 @@
 ![logo](https://github.com/JoaquinDucos/JoaquinDucos/blob/main/github-banner.jpg)
 
 <h1 align="center">Hi 👋, I'm Joaquin Ducos</h1>
-<h3 align="center">An Argentinian who enjoys the art of coding.</h3>
+<h3 align="center">An Argentinian who enjoys coding.</h3>
 <br>
 <img align ="right" alt= "coding" width="350" src= "https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joaquinducos&label=Profile%20views&color=0e75b6&style=flat" alt="joaquinducos" /> </p>
 
-- 👨‍💻 Currently working **for fun on personal projects and apps.**
+- 👨‍💻 Currently working **for fun on personal projects & hobbies.**
 
-- 🌱 Constantly learning programming languages & Technologies such as: **C, Python, HTML & Css, Javascript, SQL, Solidity, Arduino and Restful API's with Node js, express and Insomnia .**
+- 🌱 Constantly learning programming languages & Technologies such as: **C, Python, HTML & Css, Javascript, SQL Server, Arduino and Restful API's with Node js, express and Insomnia .**
 
 - 🔭 I’m looking to collaborate on **public projects, University contributions and a real world project to learn and apply my knowledge.**
 
 - 📫 How to reach me **==> joaquinducos@gmail.com**
 
-- ⚡ Current preferences: **Backend, Software programming, Data analytics and Business technologies.**
+- ⚡ Current preferences: **Backend, front-end, Software programming, Data analytics and Business technologies.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
