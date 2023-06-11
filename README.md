@@ -1,4 +1,4 @@
-![logo](https://github.com/JoaquinDucos/JoaquinDucos/blob/main/github-banner.jpg)
+![logo](https://github.com/JoaquinDucos/JoaquinDucos/blob/main/banner-github.png)
 
 <h1 align="center">Hi 👋, I'm Joaquin Ducos</h1>
 <h3 align="center">An Argentinian who enjoys coding.</h3>
