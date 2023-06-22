@@ -1,6 +1,6 @@
 ![logo](https://github.com/JoaquinDucos/JoaquinDucos/blob/main/banner-github.png)
 
-<h1 align="center">Hi 👋, I'm Joaquín Ducós</h1>
+<h1 align="center">Hi 👋, I'm Joaquín Ducos</h1>
 <h3 align="center">A student who likes technology & coding.</h3>
 <br>
 <img align ="right" alt= "coding" width="350" src= "https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
