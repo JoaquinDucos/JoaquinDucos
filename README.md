@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **==> joaquinducos@gmail.com**
 
-- ⚡ Current preferences: **Backend, Front-end, Data Analytics, Blockchain, and Business Intelligence.**
+- ⚡ Current preferences: **Backend, Web-Front-end, Blockchain, and Business Intelligence.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
