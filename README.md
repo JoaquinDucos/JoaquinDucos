@@ -9,14 +9,19 @@
 
 <br>
 
-<img align="right" alt="coding" width="350" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-<p align="left">
+<p align="left" padding="250">
+  <img align="right" alt="coding" width="160" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
   <img src="https://komarev.com/ghpvc/?username=joaquinducos&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-- 📫 **Reach me at**: <a href="mailto:joaquinducos@gmail.com">joaquinducos@gmail.com</a>
-- ⚡ **Tech Stack Interests**: DevOps, Backend, Blockchain, and Technology.
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <div style="flex: 1;">
+    - 📫 <strong>Reach me at</strong>: <a href="mailto:joaquinducos@gmail.com">joaquinducos@gmail.com</a> <br>
+    - ⚡ <strong>Tech Stack Interests</strong>: DevOps, Backend, Blockchain, and Technology.
+    
+  </div>
+  
+</div>
 
 ---
 
