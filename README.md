@@ -1,10 +1,10 @@
 ![Logo](https://github.com/JoaquinDucos/JoaquinDucos/blob/main/banner-github.png)
 
 <h1 align="center">Hi 👋, I'm Joaquín Ducos</h1>
-<h3 align="center">Business, Technology & Coding Enthusiast</h3>
+<h3 align="center">Business, Technology & Crypto</h3>
 
 <p align="center">
-  I’m passionate about crafting efficient solutions and love diving into the world of <strong>DevOps, Backend Development</strong>, and <strong>Technology</strong>.
+   Sometimes I code.
 </p>
 
 <br>
@@ -15,10 +15,7 @@
 </p>
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
-  <div style="flex: 1;">
-    - 📫 <strong>Reach me at</strong>: <a href="mailto:joaquinducos@gmail.com">joaquinducos@gmail.com</a> <br>
-    - ⚡ <strong>Tech Stack Interests</strong>: DevOps, Backend, Blockchain, and Technology.
-    
+  <div style="flex: 1;">    
   </div>
   
 </div>
