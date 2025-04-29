@@ -1,9 +1,8 @@
-<!-- Banner & Intro -->
 ![Logo](https://github.com/JoaquinDucos/JoaquinDucos/blob/main/banner-github.png)
 
-<h1 align="center">Hi 👋, I’m Joaquín Ducos</h1>
-<h3 align="center">Business, Technology & Crypto | Sometimes I code</h3>
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Joaquín+Ducos.&center=true&size=30"><h3 align="center">Business, Technology & Crypto | Sometimes I code</h3>
+</p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=JoaquinDucos&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
 </p>
@@ -19,6 +18,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=JoaquinDucos&theme=tokyonight&hide_border=true" alt="Streak Stats"/>
 </p>
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JoaquinDucos&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+
 ---
 
 ## 🛠️ Languages & Tools  
@@ -30,7 +31,6 @@
   <a href="https://open-lens.io/"><img src="https://avatars.githubusercontent.com/u/64719508?s=280&v=4" width="50" height="50" title="OpenLens"/></a>
   <a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50" height="50" title="Linux"/></a>
   <a href="https://www.microsoft.com/sql-server"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="50" height="50" title="SQL Server"/></a>
-  <!-- New Additions -->
   <a href="https://www.typescriptlang.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" title="TypeScript"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" title="HTML5"/>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" height="50" title="CSS3"/></a>
@@ -44,3 +44,4 @@
 <p align="center">
   Finance · Blockchain & Crypto · AI · Quantitative Trading
 </p>
+
