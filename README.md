@@ -22,6 +22,20 @@
 
 ---
 
+## 🚀 Live Project
+
+<p align="center">
+  <a href="https://tazza-one.vercel.app">
+    <img src="https://img.shields.io/badge/Live_App-Tazza-success?style=for-the-badge&logo=vercel&logoColor=white" alt="Tazza App" />
+  </a>
+  <br/>
+  <b>Check out <a href="https://tazza-one.vercel.app">Tazza</a></b>
+  <br/>
+  View the biggest spreads and rates between cryptos and fintechs/exchanges to maximize profits by executing these spreads.
+</p>
+
+---
+
 ## 🛠️ Languages & Tools  
 <div align="center">
   <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50" title="Python"/></a>
@@ -44,4 +58,3 @@
 <p align="center">
   Finance · Blockchain & Crypto · AI · Quantitative Trading
 </p>
-
