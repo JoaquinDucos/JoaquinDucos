@@ -1,7 +1,7 @@
 ![Logo](https://github.com/JoaquinDucos/JoaquinDucos/blob/main/banner-github.png)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Joaquín+Ducos.&center=true&size=30"><h3 align="center">Business, Technology & Crypto | Sometimes I code</h3>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Joaquín+Ducos.&center=true&size=30"><h3 align="center">AI, Business, Technology & Crypto</h3>
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=JoaquinDucos&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
